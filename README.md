@@ -4,9 +4,6 @@
 
 [![Anggasayogo github stats](https://github-readme-stats.vercel.app/api?username=Anggasayogo)](https://github.com/Anggasayogo)
 
-- 👀 I’m currently looking for a job
-- ✏️ I’m currently learning **JavaScript, React Native, React Js, Next Js, Express Js, Node.JS**
-
 #### Languages and Tools:
 
 <p>
