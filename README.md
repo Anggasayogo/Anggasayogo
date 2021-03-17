@@ -1,4 +1,4 @@
-# Hi, Everyone I'm Angga Maulana 👋
+# Hi, Everyone 👋
 
 ![](https://komarev.com/ghpvc/?username=Anggasayogo&color=red)
 
