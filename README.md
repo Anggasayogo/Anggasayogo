@@ -1,17 +1,20 @@
-# Hi, Everyone 👋
+## Hello Everyone 👋
+<p align='left'>Hi, I'm Angga Maulana, a Software Engineer 🚀 from Indonesia.</p>
 
-![](https://komarev.com/ghpvc/?username=Anggasayogo&color=red)
+#
 
-[![Anggasayogo github stats](https://github-readme-stats.vercel.app/api?username=Anggasayogo)](https://github.com/Anggasayogo)
+## - Tech Stack
 
-#### Languages and Tools:
+![JavaScript](https://img.shields.io/badge/-JavaScript-282A36?style=flat&logo=javascript)&nbsp;
+![React Native](https://img.shields.io/badge/-React_Native-282A36?style=flat&logo=react)&nbsp;
+![Express](https://img.shields.io/badge/-Express-282A36?style=flat&logo=express)&nbsp;
+![PHP](https://img.shields.io/badge/-PHP-282A36?style=flat&logo=PHP)&nbsp;
+![Lumen](https://img.shields.io/badge/-Lumen-282A36?style=flat&logo=lumen)&nbsp;
+![Codeigniter](https://img.shields.io/badge/-Codeigniter-282A36?style=flat&logo=codeigniter)&nbsp;
+![Laravel](https://img.shields.io/badge/-Laravel-282A36?style=flat&logo=laravel)&nbsp;
 
-<p>
+#
+## - My Github Stats
 
-<a href="https://laravel.com" target="_blank"><img src="https://laravel.com/img/logomark.min.svg" width="30"/></a>
-<a href="https://www.codeigniter.com" target="_blank"><img src="https://cdn1.iconfinder.com/data/icons/logos-3/304/codeigniter-icon-512.png" width="25" height="35"/></a>
-<a href="https://lumen.laravel.com" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/lumen-1.svg" width="30" height="30"/></a>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="30" width="30"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" alt="javascript" height="30" width="30"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" height="30" width="30"/> </a> 
-<a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" height="30" width="30"/></a>  
-</p>
+[![Github stats](https://github-readme-stats.vercel.app/api?username=Anggasayogo&show_icons=true&include_all_commits=true&hide_border=true&bg_color=282A36&icon_color=686868&title_color=57c7ff&text_color=9aedfe&custom_title=My+Github+Stats)](https://github.com/Anggasayogo)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anggasayogo&layout=compact&hide_border=true&bg_color=282A36&icon_color=686868&title_color=57c7ff&text_color=9aedfe)](https://github.com/Anggasayogo)
