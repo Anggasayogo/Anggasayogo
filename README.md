@@ -1,5 +1,5 @@
 ## Hello Everyone 👋
-<p align='left'>Hi, I'm Angga Maulana, a Software Engineer 🚀 from Indonesia.</p>
+<p align='left'>Hi, I'm Angga Maulana</p>
 
 
 ## - Tech Stack
