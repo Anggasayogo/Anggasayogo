@@ -1,7 +1,6 @@
 ## Hello Everyone 👋
 <p align='left'>Hi, I'm Angga Maulana</p>
 
-
 ## - Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-282A36?style=flat&logo=javascript)&nbsp;
@@ -18,4 +17,7 @@
 ## - My Github Stats
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=Anggasayogo&show_icons=true&include_all_commits=true&hide_border=true&bg_color=282A36&icon_color=686868&title_color=57c7ff&text_color=9aedfe&custom_title=My+Github+Stats)](https://github.com/Anggasayogo)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anggasayogo&layout=compact&hide_border=true&bg_color=282A36&icon_color=686868&title_color=57c7ff&text_color=9aedfe)](https://github.com/Anggasayogo)
+
+[![@anggamaul's Holopin board](https://holopin.io/api/user/board?user=anggamaul)](https://holopin.io/@anggamaul)
