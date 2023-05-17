@@ -22,4 +22,4 @@
 
 ## - My Tech Story
 
-![Pahlevikun's blog](https://github-read-medium.vercel.app/latest?username=anggasayogosm&limit=6&theme=nord)
+![Angga Maulana story](https://github-read-medium.vercel.app/latest?username=anggasayogosm&limit=6&theme=nord)
