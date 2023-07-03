@@ -14,12 +14,6 @@
 ![Laravel](https://img.shields.io/badge/-Laravel-282A36?style=flat&logo=laravel)&nbsp;
 
 
-## - My Github Stats
-
-[![Github stats](https://github-readme-stats.vercel.app/api?username=Anggasayogo&show_icons=true&include_all_commits=true&hide_border=true&bg_color=282A36&icon_color=686868&title_color=57c7ff&text_color=9aedfe&custom_title=My+Github+Stats)](https://github.com/Anggasayogo)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anggasayogo&layout=compact&hide_border=true&bg_color=282A36&icon_color=686868&title_color=57c7ff&text_color=9aedfe)](https://github.com/Anggasayogo)
-
 ## - My Tech Story
 
 ![Angga Maulana story](https://github-read-medium.vercel.app/latest?username=anggasayogosm&limit=6&theme=nord)
