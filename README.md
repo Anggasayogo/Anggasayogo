@@ -12,8 +12,9 @@
 ![Lumen](https://img.shields.io/badge/-Lumen-282A36?style=flat&logo=lumen)&nbsp;
 ![Codeigniter](https://img.shields.io/badge/-Codeigniter-282A36?style=flat&logo=codeigniter)&nbsp;
 ![Laravel](https://img.shields.io/badge/-Laravel-282A36?style=flat&logo=laravel)&nbsp;
+![Flutter](https://img.shields.io/badge/-Flutter-282A36?style=flat&logo=flutter)&nbsp;
 
 
 ## - My Tech Story
 
-![Angga Maulana story](https://github-read-medium.vercel.app/latest?username=anggasayogosm&limit=6&theme=nord)
+https://medium.com/@anggasayogosm)https://medium.com/@anggasayogosm
