@@ -17,4 +17,4 @@
 
 ## - My Tech Story
 
-https://medium.com/@anggasayogosm)https://medium.com/@anggasayogosm
+https://medium.com/@anggasayogosm
